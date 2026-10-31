@@ -67,7 +67,7 @@ it  is designed to perform mathematical operations. e.g.-Addition ,subtraction, 
         }
 
         .clear {
-            background: #e74c3c;
+            background: #e744;
         }
 
         .equal {
